@@ -4,7 +4,7 @@
             "url": "https://calendly.com/caprichosoboutique/sesiondeconsulta?month=2024-10"
         },
         "imgCaprichoso": {
-            "img": "../../public/Caprichoso-Logotipo-RGB_Negativo-768x213.png"
+            "img": "/public/Caprichoso-Logotipo-RGB_Negativo-768x213.png"
         },
         "instagram": {
             "url": "https://www.instagram.com/caprichoso.av"
@@ -18,39 +18,39 @@
         "home_images": [
             {
                 "url": "/banco-santander",
-                "img": "../../public/SANTANDER-1-1536x864.png"
+                "img": "/public/SANTANDER-1-1536x864.png"
             },
             {
                 "url": "/essen",
-                "img": "../../public/ESSEN-1-1536x864.png"
+                "img": "/public/ESSEN-1-1536x864.png"
             },
             {
                 "url": "/manki",
-                "img": "../../public/MANKI-1536x864.png"
+                "img": "/public/MANKI-1536x864.png"
             },
             {
                 "url": "/portfoliovideoclips",
-                "img": "../../public/Video-Clips-1536x864.png"
+                "img": "/public/Video-Clips-1536x864.png"
             },
             {
                 "url": "/leviatan",
-                "img": "../../public/LEVIATAN-1536x864.png"
+                "img": "/public/LEVIATAN-1536x864.png"
             },
             {
                 "url": "/intel",
-                "img": "../../public/INTEL-1536x864.png"
+                "img": "/public/INTEL-1536x864.png"
             },
             {
                 "url": "/sleth",
-                "img": "../../public/Sleth-1-1536x864.png"
+                "img": "/public/Sleth-1-1536x864.png"
             },
             {
                 "url": "/taccser",
-                "img": "../../public/TACSER-2-1536x864.png"
+                "img": "/public/TACSER-2-1536x864.png"
             },
             {
                 "url": "/fortnite",
-                "img": "../../public/Fornite-1-1536x864.png"
+                "img": "/public/Fornite-1-1536x864.png"
             }
         ],
         "portfolioPage": {

@@ -1,0 +1,119 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import data from "../mock/data.json";
+import Whatsapp from "@/components/Whatsapp.astro";
+const whatsapp = data.portfolio.whatsapp.url;
+---
+
+<Layout>
+  <div class="form-container max-width">
+    <section class="h-[20vh] flex flex-col gap-2">
+      <h2 class="font-bold text-3xl">¡Hablemos!</h2>
+      <p class="text-white flex justify-center">
+        ¡Vamos a crear algo épico juntos! Contanos tu idea y juntos haremos que
+        suceda.
+      </p>
+    </section>
+    <form>
+      <!-- <label for="input1">Nombre y Apellido</label> -->
+      <input
+        type="text"
+        id="input1"
+        name="input1"
+        placeholder="Ingresa tu nombre y apellido"
+      />
+
+      <!-- <label for="input2">Email</label> -->
+      <input
+        type="text"
+        id="input2"
+        name="input2"
+        placeholder="Ingresa tu email"
+      />
+
+      <!-- <label for="input4">Whatsapp</label> -->
+      <input
+        type="text"
+        id="input4"
+        name="input4"
+        placeholder="Ingresa tu Whatsapp"
+      />
+      <textarea id="input4" name="input4" placeholder="Ingresa tu Whatsapp"
+      ></textarea>
+
+      <button type="submit">Enviar</button>
+    </form>
+
+    <div class="h-[20vh] pt-[10vh] flex flex-col gap-2 items-center">
+      <p class="text-white">
+        ¿Tienes una idea en mente y necesitas una solución rápida? ¡Chatiemos
+        hoy mismo por Whatsapp y hagámoslo realidad!
+      </p>
+      <a class="flex gap-2 text-white" href={whatsapp} target="_blank">
+        Chat via Whatsapp
+        <Whatsapp />
+      </a>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  :root {
+    --color: #fff;
+  }
+  form {
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
+    input,
+    textarea {
+      padding: 0.5rem;
+    }
+  }
+  .form-container {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* width: 300px; */
+  }
+
+  .form-container h2 {
+    text-align: center;
+    /* margin-bottom: 20px; */
+    color: var(--color);
+  }
+
+  .form-container label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--color);
+    font-weight: bold;
+  }
+
+  .form-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  .form-container {
+    textarea {
+      height: 20vh;
+    }
+  }
+  .form-container button {
+    width: 100%;
+    padding: 10px;
+    color: var(--color);
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    background: #4064b6;
+    &:hover {
+      background: #4c7be7;
+    }
+  }
+</style>

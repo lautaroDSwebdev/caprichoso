@@ -1,0 +1,152 @@
+{
+    "portfolio": {
+        "agengarVideollamada": {
+            "url": "https://calendly.com/caprichosoboutique/sesiondeconsulta?month=2024-10"
+        },
+        "imgCaprichoso": {
+            "img": "../public/assets/Caprichoso-Logotipo-RGB_Negativo-768x213.png"
+        },
+        "instagram": {
+            "url": "https://www.instagram.com/caprichoso.av"
+        },
+        "linkedin": {
+            "url": "https://www.linkedin.com/company/105401025"
+        },
+        "whatsapp": {
+            "url": "https://wa.link/fd69x7"
+        },
+        "home_images": [
+            {
+                "url": "/banco-santander",
+                "img": "../public/assets/SANTANDER-1-1536x864.png"
+            },
+            {
+                "url": "/essen",
+                "img": "../public/assets/ESSEN-1-1536x864.png"
+            },
+            {
+                "url": "/manki",
+                "img": "../public/assets/MANKI-1536x864.png"
+            },
+            {
+                "url": "/portfoliovideoclips",
+                "img": "../public/assets/Video-Clips-1536x864.png"
+            },
+            {
+                "url": "/leviatan",
+                "img": "../public/assets/LEVIATAN-1536x864.png"
+            },
+            {
+                "url": "/intel",
+                "img": "../public/assets/INTEL-1536x864.png"
+            },
+            {
+                "url": "/sleth",
+                "img": "../public/assets/Sleth-1-1536x864.png"
+            },
+            {
+                "url": "/taccser",
+                "img": "../public/assets/TACSER-2-1536x864.png"
+            },
+            {
+                "url": "/fortnite",
+                "img": "../public/assets/Fornite-1-1536x864.png"
+            }
+        ],
+        "portfolioPage": {
+            "banco_santanderLinks": [
+                {
+                    "url": "https://www.youtube.com/watch?v=SrQ8GBNwdNY&t=1s"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=lgJo6fb9Fl0&embeds_referring_euri=https%3A%2F%2Fcaprichosoboutique.com%2F"
+                }
+            ],
+            "Essen": [
+                {
+                    "url": "https://youtu.be/8nDWIbaxwZs"
+                },
+                {
+                    "url": "https://youtu.be/WAdU1dVrFZs"
+                },
+                {
+                    "url": "https://youtu.be/B9qeuyAxRHE"
+                },
+                {
+                    "url": "https://youtu.be/hrRUCHkdiqI"
+                },
+                {
+                    "url": "https://youtu.be/t1jQ8JewEkA"
+                },
+                {
+                    "url": "https://youtu.be/1aIVqKjBvfc"
+                }
+            ],
+            "manki": [
+                {
+                    "url": "https://youtu.be/FQ4HZQWm2mw"
+                },
+                {
+                    "url": "https://youtu.be/dlrRJbHY4TI"
+                }
+            ],
+            "portfolioVideoClips": [
+                {
+                    "url": "https://youtu.be/9SYZcUfz71k"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=b9nVBm0lxXY"
+                },
+                {
+                    "url": "https://youtu.be/wCnpcb-RoLs"
+                },
+                {
+                    "url": "https://youtu.be/NGGCovEAjYI"
+                },
+                {
+                    "url": "https://youtu.be/H4zisu_bZSk"
+                }
+            ],
+            "leviatan": [
+                {
+                    "url": "https://youtu.be/L2bZxvPtZqw"
+                },
+                {
+                    "url": "https://youtu.be/LWmlRG6YCd0"
+                },
+                {
+                    "url": "https://youtu.be/nqIecQ-TeOs"
+                },
+                {
+                    "url": "https://youtu.be/3JeIzYFfHfQ"
+                }
+            ],
+            "intel": [
+                {
+                    "url": "https://youtu.be/nI2mjDR2w6Y"
+                }
+            ],
+            "sleth": [
+                {
+                    "url": "https://youtu.be/DOhW2lFbr3I"
+                },
+                {
+                    "url": "https://youtu.be/QsCbZbAqI7o"
+                }
+            ],
+            "tacser": [
+                {
+                    "url": "https://youtu.be/hjxiq0IZO4Y"
+                }
+            ],
+            "fortnite": [
+                {
+                    "url": "https://youtu.be/Cn9idWTTLb0"
+                },
+                {
+                    "url": "https://youtu.be/TOnLaGVivqo"
+                }
+            ]
+        }
+    }
+}

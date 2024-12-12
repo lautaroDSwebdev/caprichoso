@@ -1,0 +1,42 @@
+---
+import data from "../mock/data.json";
+const imgLogo = data.portfolio.imgCaprichoso.img;
+const linksSocial = data.portfolio;
+import Instagram from "./Instagram.astro";
+import Linkedin from "./Linkedin.astro";
+import "./style.css";
+---
+
+<header class="headerCaprichosa max-width">
+  <nav class="flex justify-between">
+    <section class="section_a">
+      <a
+        class="hover:text-dark-theme transition-all ease-out .3s hover:scale-x-105"
+        href="/home">Portfolio</a
+      >
+      <a
+        class="hover:text-dark-theme transition-all ease-out .3s hover:scale-x-105"
+        href="/contacto">Contacto</a
+      >
+    </section>
+    <section class="">
+      <a href="/home">
+        <img
+          class="cursor-pointer hover:scale-x-105 transition-all ease-out .3s"
+          src={imgLogo}
+          alt=""
+        />
+      </a>
+    </section>
+    <section class="section_icons">
+      <a href={linksSocial.instagram.url} target="_blanck">
+        <Instagram />
+      </a>
+      <a href={linksSocial.linkedin.url} target="_blanck">
+        
+        <Linkedin />
+      </a>
+    </section>
+  </nav>
+</header>
+

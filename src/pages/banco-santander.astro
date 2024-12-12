@@ -1,0 +1,24 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import data from "../mock/data.json";
+const banco = data.portfolio.portfolioPage.banco_santanderLinks;
+---
+
+<Layout title="Banco Santander">
+  <div>
+    <h2 class="text-white">Banco Santander</h2>
+    <div class="flex flex-col gap-3 max-width">
+      {
+        banco.map((e) => (
+          <iframe
+            class="cursor-pointer  mx-auto "
+            width="600"
+            height="100"
+            src={e.url}
+            frameborder="0"
+          />
+        ))
+      }
+    </div>
+  </div>
+</Layout>

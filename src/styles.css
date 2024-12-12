@@ -1,0 +1,32 @@
+
+:root{
+    --lightcolor: #4064b6;
+    --darkcolor:#111111;
+    --content: '🙅‍ no compatible';
+}
+body{
+    background-color: var(--darkcolor);
+}
+@media (prefers-color-scheme: light) {
+    body {
+      background: var(--lightcolor);
+      --content: '🌞 light version';
+    }
+  }
+@media (prefers-color-scheme: dark) {
+    body {
+      background: var(--darkcolor); ;
+      ---content: '🌑 dark version';
+    }
+  }
+
+
+
+.max-width{
+    max-width: 1200px;
+    margin: auto;
+}
+a{
+    font-family: "Roboto", Sans-serif;
+    font-weight: 900;
+}

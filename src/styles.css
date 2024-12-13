@@ -1,32 +1,59 @@
-
-:root{
-    --lightcolor: #4064b6;
-    --darkcolor:#111111;
-    --content: '🙅‍ no compatible';
+:root {
+  --lightcolor: #4064b6;
+  --darkcolor: #111111;
+  --content: "🙅‍ no compatible";
 }
-body{
-    background-color: var(--darkcolor);
+body {
+  background-color: var(--darkcolor);
 }
 @media (prefers-color-scheme: light) {
-    body {
-      background: var(--lightcolor);
-      --content: '🌞 light version';
-    }
+  body {
+    background: var(--lightcolor);
+    --content: "🌞 light version";
   }
-@media (prefers-color-scheme: dark) {
-    body {
-      background: var(--darkcolor); ;
-      ---content: '🌑 dark version';
-    }
-  }
-
-
-
-.max-width{
-    max-width: 1200px;
-    margin: auto;
 }
-a{
-    font-family: "Roboto", Sans-serif;
-    font-weight: 900;
+@media (prefers-color-scheme: dark) {
+  body {
+    background: var(--darkcolor);
+    ---content: "🌑 dark version";
+  }
+}
+
+.max-width {
+  max-width: 1200px;
+  margin: auto;
+}
+a {
+  font-family: "Roboto", Sans-serif;
+  font-weight: 900;
+}
+
+@keyframes mi-animacion-home {
+  0% {
+    opacity: 100%;
+  }
+  50% {
+    opacity: 50%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+.iframe-style{
+    /* position: relative; */
+
+    iframe{
+      /* position: absolute; */
+      height: 40vh ;
+      /* inset: 0; */
+    }
+}
+
+.transition-images-home {
+  &:hover {
+    animation: mi-animacion-home infinite;
+    animation-duration: 1s ;
+    animation-delay: .1s;
+    
+  }
 }

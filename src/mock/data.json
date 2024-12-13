@@ -29,7 +29,7 @@
                 "img": "../public/MANKI-1536x864.png"
             },
             {
-                "url": "/portfoliovideoclips",
+                "url": "/portfolio-de-videoclips",
                 "img": "../public/Video-Clips-1536x864.png"
             },
             {
@@ -56,95 +56,96 @@
         "portfolioPage": {
             "banco_santanderLinks": [
                 {
-                    "url": "https://www.youtube.com/watch?v=SrQ8GBNwdNY&t=1s"
+                    "url": "https://www.youtube.com/embed/SrQ8GBNwdNY?si=oOlAXp62d2JcKgEN"
+
                 },
                 {
-                    "url": "https://www.youtube.com/watch?v=lgJo6fb9Fl0&embeds_referring_euri=https%3A%2F%2Fcaprichosoboutique.com%2F"
+                    "url": "https://www.youtube.com/embed/lgJo6fb9Fl0?si=23BgZihUEk1aloln"
                 }
             ],
             "Essen": [
                 {
-                    "url": "https://youtu.be/8nDWIbaxwZs"
+                    "url": "https://www.youtube.com/embed/8nDWIbaxwZs?si=-e5oi6yJJvoOyvae"
                 },
                 {
-                    "url": "https://youtu.be/WAdU1dVrFZs"
+                    "url": "https://www.youtube.com/embed/WAdU1dVrFZs?si=iks43fM5jB1Q7ET1"
                 },
                 {
-                    "url": "https://youtu.be/B9qeuyAxRHE"
+                    "url": "https://www.youtube.com/embed/B9qeuyAxRHE?si=9mXaZY8hNUAa_HeO"
                 },
                 {
-                    "url": "https://youtu.be/hrRUCHkdiqI"
+                    "url": "https://www.youtube.com/embed/hrRUCHkdiqI?si=ir-_EhBbebFlUeJ7"
                 },
                 {
-                    "url": "https://youtu.be/t1jQ8JewEkA"
+                    "url": "https://www.youtube.com/embed/t1jQ8JewEkA?si=uy0BGoO20AJVXJ5k"
                 },
                 {
-                    "url": "https://youtu.be/1aIVqKjBvfc"
+                    "url": "https://www.youtube.com/embed/1aIVqKjBvfc?si=2TUl78OkD4Pp0m1j"
                 }
             ],
             "manki": [
                 {
-                    "url": "https://youtu.be/FQ4HZQWm2mw"
+                    "url": "https://www.youtube.com/embed/FQ4HZQWm2mw?si=SlApajSekulb4GL9"
                 },
                 {
-                    "url": "https://youtu.be/dlrRJbHY4TI"
+                    "url": "https://www.youtube.com/embed/dlrRJbHY4TI?si=QnY_yX_j0QkvBA8o"
                 }
             ],
             "portfolioVideoClips": [
                 {
-                    "url": "https://youtu.be/9SYZcUfz71k"
+                    "url": "https://www.youtube.com/embed/9SYZcUfz71k?si=B4n0Y2g50bdmv9L2"
                 },
                 {
-                    "url": "https://www.youtube.com/watch?v=b9nVBm0lxXY"
+                    "url": "https://www.youtube.com/embed/b9nVBm0lxXY?si=dPQ2kdIeH8iL1HeE"
                 },
                 {
-                    "url": "https://youtu.be/wCnpcb-RoLs"
+                    "url": "https://www.youtube.com/embed/wCnpcb-RoLs?si=TzhO8yIuYpAR2Xfz"
                 },
                 {
-                    "url": "https://youtu.be/NGGCovEAjYI"
+                    "url": "https://www.youtube.com/embed/NGGCovEAjYI?si=5oRsVPMmNSZ2AP30"
                 },
                 {
-                    "url": "https://youtu.be/H4zisu_bZSk"
+                    "url": "https://www.youtube.com/embed/H4zisu_bZSk?si=fcukK5G1Oz31CUax"
                 }
             ],
             "leviatan": [
                 {
-                    "url": "https://youtu.be/L2bZxvPtZqw"
+                    "url": "https://www.youtube.com/embed/L2bZxvPtZqw?si=PBDjiEHOD5abW37y"
                 },
                 {
-                    "url": "https://youtu.be/LWmlRG6YCd0"
+                    "url": "https://www.youtube.com/embed/LWmlRG6YCd0?si=IUeVSd8Iy7P1RV5h"
                 },
                 {
-                    "url": "https://youtu.be/nqIecQ-TeOs"
+                    "url": "https://www.youtube.com/embed/nqIecQ-TeOs?si=JTTu7uQWHXSUS2F-"
                 },
                 {
-                    "url": "https://youtu.be/3JeIzYFfHfQ"
+                    "url": "https://www.youtube.com/embed/3JeIzYFfHfQ?si=oOCKNQ9tZ_OyKx4D"
                 }
             ],
             "intel": [
                 {
-                    "url": "https://youtu.be/nI2mjDR2w6Y"
+                    "url": "https://www.youtube.com/embed/nI2mjDR2w6Y?si=tbnicicSG0sd_tt1"
                 }
             ],
             "sleth": [
                 {
-                    "url": "https://youtu.be/DOhW2lFbr3I"
+                    "url": "https://www.youtube.com/embed/DOhW2lFbr3I?si=XtY5MzCHfKKtrwu2"
                 },
                 {
-                    "url": "https://youtu.be/QsCbZbAqI7o"
+                    "url": "https://www.youtube.com/embed/QsCbZbAqI7o?si=o__Y3_VU78_i93EQ"
                 }
             ],
             "tacser": [
                 {
-                    "url": "https://youtu.be/hjxiq0IZO4Y"
+                    "url": "https://www.youtube.com/embed/hjxiq0IZO4Y?si=B2S6fhi8CzsPimUk"
                 }
             ],
             "fortnite": [
                 {
-                    "url": "https://youtu.be/Cn9idWTTLb0"
+                    "url": "https://www.youtube.com/embed/Cn9idWTTLb0?si=GsV9mYbarE-fNwV8"
                 },
                 {
-                    "url": "https://youtu.be/TOnLaGVivqo"
+                    "url": "https://www.youtube.com/embed/TOnLaGVivqo?si=NiHj1w6p_t6-c1Sr"
                 }
             ]
         }

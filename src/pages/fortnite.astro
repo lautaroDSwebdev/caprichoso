@@ -1,14 +1,14 @@
 ---
 import Layout from "@/layouts/Layout.astro";
 import data from "../mock/data.json";
-const banco = data.portfolio.portfolioPage.banco_santanderLinks;
+const fortniteData = data.portfolio.portfolioPage.fortnite;
 ---
 
 <Layout title="Banco Santander">
   <div>
     <h2 class="text-white">Banco Santander</h2>
     <div class="flex flex-col gap-3 max-width iframe-style">
-      {banco.map((e) => <iframe src={e.url} allowfullscreen />)}
+      {fortniteData.map((e) => <iframe src={e.url} allowfullscreen />)}
     </div>
   </div>
 </Layout>

@@ -18,11 +18,11 @@
         "home_images": [
             {
                 "url": "/banco-santander",
-                "img": "../public/assets/SANTANDER-1-1536x864.png"
+                "img": "../assets/SANTANDER-1-1536x864.png"
             },
             {
                 "url": "/essen",
-                "img": "../public/assets/ESSEN-1-1536x864.png"
+                "img": "../../public/assets/ESSEN-1-1536x864.png"
             },
             {
                 "url": "/manki",

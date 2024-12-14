@@ -9,39 +9,37 @@ const videollamada = data.portfolio.agengarVideollamada;
 <Layout title="Caprichoso">
   <section>
     <div
-      class="grid grid-cols-[repeat(auto-fill,minmax(25rem,1fr))] gap-6 rounded-md max-width"
+      class="grid grid-cols-[repeat(auto-fill,minmax(25rem,1fr))] justify-center gap-6 rounded-md max-width"
     >
       {
         homeData.map((e) => (
-          <div class=" transition-images-home">
+          <div class="transition-images-home">
             <a class="max-w-[600px]" href={e.url}>
               <img class="h-auto w-[600px]" src={e.img} alt="imageb banco" />
             </a>
           </div>
-          // <div class="hover:opacity-25  transition-all .5s ease-out">
-          //   <a class="max-w-[600px]" href={e.url}>
-          //     <img class="h-auto w-[600px]" src={e.img} alt="imageb banco" />
-          //   </a>
-          // </div>
         ))
       }
     </div>
-    <div class="h-[30vh] pt-[10vh] flex justify-center flex-col items-center gap-2">
+    <div
+      class="h-[30vh] pt-[10vh] flex justify-center flex-col items-center gap-2"
+    >
       <p class="text-white">¿Necesitas un video? Let´s talk</p>
-      <a href={videollamada.url} target="_blank" class="a_videollamada">Agenda una videollamada</a>
+      <a href={videollamada.url} target="_blank" class="a_videollamada"
+        >Agenda una videollamada</a
+      >
     </div>
   </section>
 </Layout>
 <style>
-  .a_videollamada{
+  .a_videollamada {
     cursor: pointer;
     background: #4064b6;
     color: #fff;
     padding: 1rem;
     border-radius: 5px;
-    &:hover{
+    &:hover {
       background: #4b74d3;
-
     }
   }
 </style>

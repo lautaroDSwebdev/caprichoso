@@ -18,28 +18,23 @@
         "home_images": [
             {
                 "url": "/banco-santander",
-                "img": "../public/assets/SANTANDER-1-1536x864.png",
-                "imgHelper": "../assets/SANTANDER-1-1536x864.png"
+                "img": "../public/assets/SANTANDER-1-1536x864.png"
             },
             {
                 "url": "/essen",
-                "img": "../public/assets/ESSEN-1-1536x864.png",
-                "imgHelper": "../assets/ESSEN-1-1536x864.png"
+                "img": "../public/assets/ESSEN-1-1536x864.png"
             },
             {
                 "url": "/manki",
-                "img": "../public/assets/MANKI-1536x864.png",
-                "imgHelper": "../assets/MANKI-1536x864.png"
+                "img": "../public/assets/MANKI-1536x864.png"
             },
             {
                 "url": "/portfolio-de-videoclips",
-                "img": "../public/assets/Video-Clips-1536x864.png",
-                "imgHelper": "../assets/Video-Clips-1536x864.png"
+                "img": "../public/assets/Video-Clips-1536x864.png"
             },
             {
                 "url": "/leviatan",
-                "img": "../public/assets/LEVIATAN-1536x864.png",
-                "imgHelper": "../assets/LEVIATAN-1536x864.png"
+                "img": "../public/assets/LEVIATAN-1536x864.png"
             },
             {
                 "url": "/intel",

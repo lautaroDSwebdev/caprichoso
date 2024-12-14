@@ -18,7 +18,7 @@
         "home_images": [
             {
                 "url": "/banco-santander",
-                "img": "../publicSANTANDER/assets-1-1536x864.png",
+                "img": "../public/assets/SANTANDER-1-1536x864.png",
                 "imgHelper": "../assets/SANTANDER-1-1536x864.png"
             },
             {

@@ -3,9 +3,10 @@ import Layout from "@/layouts/Layout.astro";
 import data from "../mock/data.json";
 import Whatsapp from "@/components/Whatsapp.astro";
 const whatsapp = data.portfolio.whatsapp.url;
+const {title} = Astro.props 
 ---
 
-<Layout>
+<Layout title="Contacto">
   <div class="form-container max-width">
     <section class="h-[20vh] flex flex-col gap-2">
       <h2 class="font-bold text-3xl">¡Hablemos!</h2>

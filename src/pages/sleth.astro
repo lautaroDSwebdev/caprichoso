@@ -2,11 +2,12 @@
 import Layout from "@/layouts/Layout.astro";
 import data from "../mock/data.json";
 const slethData = data.portfolio.portfolioPage.sleth;
+const {title} = Astro.props 
 ---
 
 <Layout title="Banco Santander">
   <div>
-    <h2 class="text-white">Banco Santander</h2>
+    <h2 class="text-white titles">Sleth</h2>
     <div class="flex flex-col gap-3 max-width iframe-style">
       {slethData.map((e) => <iframe src={e.url} allowfullscreen />)}
     </div>

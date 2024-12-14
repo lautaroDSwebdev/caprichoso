@@ -38,19 +38,19 @@
             },
             {
                 "url": "/intel",
-                "img": "../../public/assets/INTEL-1536x864.png"
+                "img": "../public/assets/INTEL-1536x864.png"
             },
             {
                 "url": "/sleth",
-                "img": "../../public/assets/Sleth-1-1536x864.png"
+                "img": "../public/assets/Sleth-1-1536x864.png"
             },
             {
                 "url": "/taccser",
-                "img": "../../public/assets/TACSER-2-1536x864.png"
+                "img": "../public/assets/TACSER-2-1536x864.png"
             },
             {
                 "url": "/fortnite",
-                "img": "../../public/assets/Fornite-1-1536x864.png"
+                "img": "../public/assets/Fornite-1-1536x864.png"
             }
         ],
         "portfolioPage": {

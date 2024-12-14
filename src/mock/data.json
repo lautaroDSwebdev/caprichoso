@@ -4,7 +4,7 @@
             "url": "https://calendly.com/caprichosoboutique/sesiondeconsulta?month=2024-10"
         },
         "imgCaprichoso": {
-            "img": "../../public/assets/Caprichoso-Logotipo-RGB_Negativo-768x213.png"
+            "img": "../assets/Caprichoso-Logotipo-RGB_Negativo-768x213.png"
         },
         "instagram": {
             "url": "https://www.instagram.com/caprichoso.av"
@@ -22,35 +22,35 @@
             },
             {
                 "url": "/essen",
-                "img": "../../public/assets/ESSEN-1-1536x864.png"
+                "img": "../assets/ESSEN-1-1536x864.png"
             },
             {
                 "url": "/manki",
-                "img": "../public/assets/MANKI-1536x864.png"
+                "img": "../assets/MANKI-1536x864.png"
             },
             {
                 "url": "/portfolio-de-videoclips",
-                "img": "../public/assets/Video-Clips-1536x864.png"
+                "img": "../assets/Video-Clips-1536x864.png"
             },
             {
                 "url": "/leviatan",
-                "img": "../public/assets/LEVIATAN-1536x864.png"
+                "img": "../assets/LEVIATAN-1536x864.png"
             },
             {
                 "url": "/intel",
-                "img": "../public/assets/INTEL-1536x864.png"
+                "img": "../assets/INTEL-1536x864.png"
             },
             {
                 "url": "/sleth",
-                "img": "../public/assets/Sleth-1-1536x864.png"
+                "img": "../assets/Sleth-1-1536x864.png"
             },
             {
                 "url": "/taccser",
-                "img": "../public/assets/TACSER-2-1536x864.png"
+                "img": "../assets/TACSER-2-1536x864.png"
             },
             {
                 "url": "/fortnite",
-                "img": "../public/assets/Fornite-1-1536x864.png"
+                "img": "../assets/Fornite-1-1536x864.png"
             }
         ],
         "portfolioPage": {

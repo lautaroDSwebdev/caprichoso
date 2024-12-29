@@ -4,20 +4,25 @@
   --content: "🙅‍ no compatible";
 }
 body {
-  background-color: var(--darkcolor);
+  /* background-color: var(--darkcolor); */
 }
-@media (prefers-color-scheme: light) {
+
+
+/* @media (prefers-color-scheme: light) {
   body {
-    background: var(--lightcolor);
     --content: "🌞 light version";
   }
-}
-@media (prefers-color-scheme: dark) {
+} */
+/* @media (prefers-color-scheme: dark) {
+} */
   body {
     background: var(--darkcolor);
+    background: rgb(87,124,172);
+    background: radial-gradient(circle, rgba(87,124,172,1) -62%, rgba(14,22,33,1) 76%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     ---content: "🌑 dark version";
   }
-}
 
 .max-width {
   max-width: 1200px;
